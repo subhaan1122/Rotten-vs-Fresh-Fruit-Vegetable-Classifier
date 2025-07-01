@@ -13,12 +13,12 @@ Built with **TensorFlow**, powered by **MobileNetV2**, and deployed via **Stream
 
 ## 🧠 Features
 
-✅ Binary classification: Fresh vs Rotten
-✅ 32-class support across 16+ fruit/vegetable types
-✅ MobileNetV2 with custom classification head
-✅ Real-time predictions via webcam or uploads
-✅ 95.9% test accuracy
-✅ Clean and responsive Streamlit UI
+- ✅ Binary classification: Fresh vs Rotten
+- ✅ 32-class support across 16+ fruit/vegetable types
+- ✅ MobileNetV2 with custom classification head
+- ✅ Real-time predictions via webcam or uploads
+- ✅ 95.9% test accuracy
+- ✅ Clean and responsive Streamlit UI
 
  ---
 
